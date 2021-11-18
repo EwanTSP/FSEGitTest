@@ -19,4 +19,25 @@ private String	surname;
 		othername = "";
 	}
 
+	public String getFirstName()
+	{
+		return firstname;
+	}
+
+	public void setFirstName(String newfirstName)
+	{
+		this.firstname = newfirstName;
+	}
+
+
+	public String getSurname()
+		{
+			return surname;
+		}
+
+		public void setSurame(String newsurame)
+		{
+			this.surname = newsurame;
+	}
+
 }
