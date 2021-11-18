@@ -40,4 +40,11 @@ private String	surname;
 			this.surname = newsurame;
 	}
 
+	public int getAge()
+	{
+
+	}
+
+
+
 }
