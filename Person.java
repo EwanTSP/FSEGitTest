@@ -45,6 +45,9 @@ private String	surname;
 
 	}
 
+	public String printFullName()
+	{
 
+	}
 
 }
